@@ -4,6 +4,7 @@
     <title>User Management System</title>
 </head>
 <body>
+    <nav>Gere les utilisateures</nav>
     <h1>Welcome to User Management System</h1>
     <a href="views/login_form.php">Login</a> |
     <a href="views/signup_form.php">Sign Up</a>
